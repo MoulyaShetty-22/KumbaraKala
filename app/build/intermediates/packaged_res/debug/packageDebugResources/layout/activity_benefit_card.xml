@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cream_background"
+    android:orientation="vertical">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/terracotta_primary"
+        app:titleTextColor="@color/white"/>
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="match_parent"
+        android:layout_height="4dp"
+        android:indeterminateTint="@color/terracotta_accent"
+        android:visibility="gone"
+        style="?android:attr/progressBarStyleHorizontal"/>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <!-- Card container -->
+            <LinearLayout
+                android:id="@+id/card_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:cardCornerRadius="12dp"
+                    app:cardElevation="8dp">
+
+                    <ImageView
+                        android:id="@+id/iv_card"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:adjustViewBounds="true"
+                        android:scaleType="fitCenter"/>
+                </androidx.cardview.widget.CardView>
+
+                <!-- Action buttons -->
+                <Button
+                    android:id="@+id/btn_read_aloud"
+                    style="@style/KumbaraButtonOutlined"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16dp"
+                    android:text="🔊 Read Aloud"/>
+
+                <Button
+                    android:id="@+id/btn_share_whats_app"
+                    style="@style/KumbaraButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="💬 Share on WhatsApp"
+                    android:textSize="15sp"/>
+
+                <Button
+                    android:id="@+id/btn_save_gallery"
+                    style="@style/KumbaraButtonOutlined"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="💾 Save to Gallery"/>
+
+                <Button
+                    android:id="@+id/btn_regenerate_card"
+                    style="@style/KumbaraButtonOutlined"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="🔄 Regenerate Card"/>
+
+            </LinearLayout>
+
+            <!-- Workshop Linking Section -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="6dp"
+                android:text="🎨 Link a Workshop to this card?"
+                android:textColor="@color/terracotta_primary"
+                android:textStyle="bold"
+                android:textSize="14sp"/>
+
+            <Spinner
+                android:id="@+id/spinner_workshop"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:layout_marginBottom="8dp"
+                android:background="@drawable/spinner_background"/>
+
+            <Button
+                android:id="@+id/btn_apply_workshop"
+                style="@style/KumbaraButtonOutlined"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:text="✅ Apply Workshop to Card"/>
+
+            <!-- Generating placeholder -->
+            <TextView
+                android:id="@+id/tv_generating"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="40dp"
+                android:text="✨ Generating your benefit card with Gemini Vision AI...\n\nAnalysing your clay product image..."
+                android:textColor="@color/terracotta_accent"
+                android:textSize="15sp"/>
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>

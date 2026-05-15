@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KumbaraKala</string>
+    <string name="nav_home">Catalog</string>
+    <string name="nav_artisan">Artisan</string>
+    <string name="nav_workshop">Workshops</string>
+    <string name="empty_products">No clay products yet.\nTap + to add your first product!</string>
+    <string name="empty_workshops">No workshops listed yet.\nTap + to add your first workshop!</string>
+    <string name="generate_card">Generate Benefit Card</string>
+    <string name="share_whatsapp">Share on WhatsApp</string>
+    <string name="save_gallery">Save to Gallery</string>
+    <string name="read_aloud">🔊 Read Aloud</string>
+</resources>

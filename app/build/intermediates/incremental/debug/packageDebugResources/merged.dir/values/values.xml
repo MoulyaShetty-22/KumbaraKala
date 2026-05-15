@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="brown_text">#1A0A00</color>
+    <color name="card_stroke">#D4A57A</color>
+    <color name="cream_background">#F9EDE5</color>
+    <color name="cream_surface">#FFF5EE</color>
+    <color name="golden_accent">#C8860A</color>
+    <color name="golden_light">#FFD580</color>
+    <color name="hint_color">#9E6B50</color>
+    <color name="leaf_green">#2E7D32</color>
+    <color name="saffron">#E65100</color>
+    <color name="tag_eco">#00897B</color>
+    <color name="tag_handmade">#7B2D00</color>
+    <color name="tag_health">#2E7D32</color>
+    <color name="tag_traditional">#C8860A</color>
+    <color name="teal_eco">#00897B</color>
+    <color name="terracotta_accent">#A03A10</color>
+    <color name="terracotta_dark">#5A1F00</color>
+    <color name="terracotta_primary">#7B2D00</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">KumbaraKala</string>
+    <string name="empty_products">No clay products yet.\nTap + to add your first product!</string>
+    <string name="empty_workshops">No workshops listed yet.\nTap + to add your first workshop!</string>
+    <string name="generate_card">Generate Benefit Card</string>
+    <string name="nav_artisan">Artisan</string>
+    <string name="nav_home">Catalog</string>
+    <string name="nav_workshop">Workshops</string>
+    <string name="read_aloud">🔊 Read Aloud</string>
+    <string name="save_gallery">Save to Gallery</string>
+    <string name="share_whatsapp">Share on WhatsApp</string>
+    <style name="KumbaraButton" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/terracotta_primary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="cornerRadius">8dp</item>
+        <item name="android:letterSpacing">0.02</item>
+    </style>
+    <style name="KumbaraButtonGold" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/golden_accent</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="cornerRadius">8dp</item>
+    </style>
+    <style name="KumbaraButtonOutlined" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/terracotta_primary</item>
+        <item name="android:textColor">@color/terracotta_primary</item>
+        <item name="cornerRadius">8dp</item>
+    </style>
+    <style name="KumbaraEditText" parent="Widget.MaterialComponents.TextInputEditText.OutlinedBox">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorHint">@color/hint_color</item>
+    </style>
+    <style name="KumbaraFAB" parent="Widget.MaterialComponents.FloatingActionButton">
+        <item name="backgroundTint">@color/terracotta_primary</item>
+        <item name="tint">@color/white</item>
+    </style>
+    <style name="KumbaraTextInput" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/terracotta_primary</item>
+        <item name="hintTextColor">@color/terracotta_primary</item>
+        <item name="android:textColorHint">@color/hint_color</item>
+        <item name="boxBackgroundColor">@color/cream_surface</item>
+    </style>
+    <style name="KumbaraToolbar" parent="Widget.MaterialComponents.Toolbar.Primary">
+        <item name="android:background">@color/terracotta_primary</item>
+        <item name="titleTextColor">@color/white</item>
+    </style>
+    <style name="SectionHeader">
+        <item name="android:textColor">@color/terracotta_primary</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="Theme.KumbaraKala" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/terracotta_primary</item>
+        <item name="colorPrimaryVariant">@color/terracotta_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/golden_accent</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:colorBackground">@color/cream_background</item>
+        <item name="colorSurface">@color/cream_surface</item>
+        <item name="android:windowBackground">@color/cream_background</item>
+        <item name="colorOnBackground">@color/brown_text</item>
+        
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:textColorSecondary">@color/terracotta_primary</item>
+        <item name="android:textColorHint">@color/hint_color</item>
+        <item name="editTextColor">@color/black</item>
+        <item name="android:editTextColor">@color/black</item>
+        
+        <item name="colorControlActivated">@color/terracotta_primary</item>
+        <item name="colorControlNormal">@color/terracotta_accent</item>
+        <item name="colorControlHighlight">@color/golden_light</item>
+        
+        <item name="textInputStyle">@style/KumbaraTextInput</item>
+    </style>
+</resources>

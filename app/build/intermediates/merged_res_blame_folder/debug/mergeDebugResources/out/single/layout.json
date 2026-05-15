@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.kumbara.kala.app-mergeDebugResources-54:/layout/fragment_workshop.xml",
+        "source": "com.kumbara.kala.app-main-57:/layout/fragment_workshop.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-mergeDebugResources-54:/layout/item_product.xml",
+        "source": "com.kumbara.kala.app-main-57:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-mergeDebugResources-54:/layout/fragment_home.xml",
+        "source": "com.kumbara.kala.app-main-57:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-mergeDebugResources-54:/layout/activity_add_workshop.xml",
+        "source": "com.kumbara.kala.app-main-57:/layout/activity_add_workshop.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-mergeDebugResources-54:/layout/fragment_artisan.xml",
+        "source": "com.kumbara.kala.app-main-57:/layout/fragment_artisan.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-mergeDebugResources-54:/layout/activity_product_detail.xml",
+        "source": "com.kumbara.kala.app-main-57:/layout/activity_product_detail.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-mergeDebugResources-54:/layout/activity_add_edit_product.xml",
+        "source": "com.kumbara.kala.app-main-57:/layout/activity_add_edit_product.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-mergeDebugResources-54:/layout/activity_main.xml",
+        "source": "com.kumbara.kala.app-main-57:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-mergeDebugResources-54:/layout/activity_benefit_card.xml",
+        "source": "com.kumbara.kala.app-main-57:/layout/activity_benefit_card.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-mergeDebugResources-54:/layout/item_workshop.xml",
+        "source": "com.kumbara.kala.app-main-57:/layout/item_workshop.xml"
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.kumbara.kala.app-main-57:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/drawable_product_diya.png.flat",
+        "source": "com.kumbara.kala.app-main-57:/drawable/product_diya.png"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.kumbara.kala.app-main-57:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.kumbara.kala.app-main-57:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.kumbara.kala.app-main-57:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/drawable_spinner_background.xml.flat",
+        "source": "com.kumbara.kala.app-main-57:/drawable/spinner_background.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.kumbara.kala.app-main-57:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/xml_file_paths.xml.flat",
+        "source": "com.kumbara.kala.app-main-57:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/menu_menu_product_detail.xml.flat",
+        "source": "com.kumbara.kala.app-main-57:/menu/menu_product_detail.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/layout_activity_add_edit_product.xml.flat",
+        "source": "com.kumbara.kala.app-main-57:/layout/activity_add_edit_product.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/layout_fragment_workshop.xml.flat",
+        "source": "com.kumbara.kala.app-main-57:/layout/fragment_workshop.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/layout_item_workshop.xml.flat",
+        "source": "com.kumbara.kala.app-main-57:/layout/item_workshop.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/xml_backup_rules.xml.flat",
+        "source": "com.kumbara.kala.app-main-57:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/drawable_banner_heritage.png.flat",
+        "source": "com.kumbara.kala.app-main-57:/drawable/banner_heritage.png"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/drawable_result_background.xml.flat",
+        "source": "com.kumbara.kala.app-main-57:/drawable/result_background.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/drawable_tag_background_red.xml.flat",
+        "source": "com.kumbara.kala.app-main-57:/drawable/tag_background_red.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/xml_data_extraction_rules.xml.flat",
+        "source": "com.kumbara.kala.app-main-57:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/drawable_product_curry_pot.png.flat",
+        "source": "com.kumbara.kala.app-main-57:/drawable/product_curry_pot.png"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/layout_fragment_artisan.xml.flat",
+        "source": "com.kumbara.kala.app-main-57:/layout/fragment_artisan.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/navigation_nav_graph.xml.flat",
+        "source": "com.kumbara.kala.app-main-57:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.kumbara.kala.app-main-57:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/drawable_product_water_pot.png.flat",
+        "source": "com.kumbara.kala.app-main-57:/drawable/product_water_pot.png"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.kumbara.kala.app-main-57:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/layout_item_product.xml.flat",
+        "source": "com.kumbara.kala.app-main-57:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/layout_activity_benefit_card.xml.flat",
+        "source": "com.kumbara.kala.app-main-57:/layout/activity_benefit_card.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.kumbara.kala.app-main-57:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.kumbara.kala.app-main-57:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/layout_activity_add_workshop.xml.flat",
+        "source": "com.kumbara.kala.app-main-57:/layout/activity_add_workshop.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/drawable_ic_clay_pot.xml.flat",
+        "source": "com.kumbara.kala.app-main-57:/drawable/ic_clay_pot.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/drawable_tag_background.xml.flat",
+        "source": "com.kumbara.kala.app-main-57:/drawable/tag_background.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.kumbara.kala.app-main-57:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/layout_fragment_home.xml.flat",
+        "source": "com.kumbara.kala.app-main-57:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/layout_activity_main.xml.flat",
+        "source": "com.kumbara.kala.app-main-57:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.kumbara.kala.app-main-57:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.kumbara.kala.app-main-57:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/drawable_circle_bg.xml.flat",
+        "source": "com.kumbara.kala.app-main-57:/drawable/circle_bg.xml"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.kumbara.kala.app-main-57:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kumbara.kala.app-debug-55:/layout_activity_product_detail.xml.flat",
+        "source": "com.kumbara.kala.app-main-57:/layout/activity_product_detail.xml"
+    }
+]

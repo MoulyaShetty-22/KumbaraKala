@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="terracotta_primary">#7B2D00</color>
+    <color name="terracotta_dark">#5A1F00</color>
+    <color name="terracotta_accent">#A03A10</color>
+    <color name="cream_background">#F9EDE5</color>
+    <color name="cream_surface">#FFF5EE</color>
+    <color name="brown_text">#1A0A00</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="golden_accent">#C8860A</color>
+    <color name="golden_light">#FFD580</color>
+    <color name="leaf_green">#2E7D32</color>
+    <color name="teal_eco">#00897B</color>
+    <color name="saffron">#E65100</color>
+    <color name="hint_color">#9E6B50</color>
+    <color name="card_stroke">#D4A57A</color>
+    <color name="tag_health">#2E7D32</color>
+    <color name="tag_eco">#00897B</color>
+    <color name="tag_handmade">#7B2D00</color>
+    <color name="tag_traditional">#C8860A</color>
+</resources>
